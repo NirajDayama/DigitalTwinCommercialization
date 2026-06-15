@@ -1,0 +1,145 @@
+---
+Input from Expert #1
+---
+
+
+1. "New Product Development Process and Case Studies for Deep-Tech Academic Research to Commercialization"
+
+Original Source: EconStor (a German publication server for economics)
+Deeper Discussion: This resource is exceptionally relevant as it focuses specifically on deep-tech academic spin-offs and their unique product development processes. For our project, it provides invaluable insights into:
+The Transition from Academia to Commercialization: It addresses the gap between traditional academic goals (research, publication) and commercial readiness, offering frameworks (like the Augmented Stage-Gate) tailored for academic initiatives. This directly supports our objective of guiding MBA students on when and how an academic non-profit initiative matures into a company.
+Resource Constraints in Early Stages: It highlights how deep-tech innovations often require significant funding and operate with low initial resources, which resonates with our project's early funding (PoC, AF Lindstedt) and the need to break even.
+Market Need vs. Technical Feasibility: The study emphasizes scouting for socioeconomically impactful research and developing a business case, crucial for students learning to identify viable market segments for a generic product like our digital twin.
+Direct Link (PDF Download): https://www.econstor.eu/bitstream/10419/290253/1/1884180388.pdf
+2. "Experienced Entrepreneurial Founders, Organizational Capital, and Venture Capital Funding" by D. Hsu (Wharton Faculty Platform)
+
+Original Source: Research Policy (a journal, but accessible via Wharton's faculty platform)
+Deeper Discussion: This article from Wharton is crucial for understanding the founder dynamics and early-stage funding that are central to our project.
+Founder Equity & Experience: It empirically investigates how prior founding experience and academic training influence the likelihood and valuation of venture capital funding. This provides a data-driven perspective on questions like "How do we decide shareholding patterns between founders?" and the value of "sweat equity," helping students analyze human capital in startups.
+Sourcing VC Funding: The paper touches on how direct social ties influence VC funding, which is relevant for students learning about networking and leveraging connections in the startup ecosystem.
+Organizational Capital: It defines and examines different dimensions of organizational capital, offering a framework for assessing a startup's internal strengths beyond just its technology.
+Direct Link (PDF Download): https://faculty.wharton.upenn.edu/wp-content/uploads/2015/07/7.pdf
+3. "Digital twins: The next frontier of factory optimization" and "Using digital twins to unlock supply chain growth" (McKinsey & Company)
+
+Original Source: McKinsey & Company insights (articles)
+Deeper Discussion: These McKinsey articles provide an excellent macro-level view of the digital twin market and its value proposition from a leading consulting firm, perfect for grounding MBA student discussions in real-world strategic trends.
+Market Opportunity & Value Realization: They emphasize the rapid growth of the digital twin market and how companies are leveraging this technology for efficiency, resilience, and growth across various sectors (factories, supply chains). This helps students understand "why we make" the product and "what it will achieve" for customers, particularly for a generic solution like ours applicable across domains.
+Business Applications and ROI: The articles outline specific use cases and quantifiable benefits (e.g., up to 20% improvement in fulfilling consumer promise, 10% reduction in labor costs). This is invaluable for students learning about demonstrating ROI for high-tech solutions and answering "what will it achieve" questions.
+Industry Adoption Trends: They provide survey data on digital twin implementation plans by senior executives, offering insights into market readiness and potential target segments for our product.
+Direct Link (Factory Optimization): https://www.mckinsey.com/capabilities/operations/our-insights/digital-twins-the-next-frontier-of-factory-optimization
+Direct Link (Supply Chain Growth): https://www.mckinsey.com.br/capabilities/quantumblack/our-insights/digital-twins-the-key-to-unlocking-end-to-end-supply-chain-growth
+4. "Leveraging Digital Twin for Business Model Innovation at Ashok Leyland (A)" by Chandan Chowdhury (ISB, distributed by Harvard Publishing)
+
+Original Source: Indian School of Business (ISB) Case Study, distributed by Harvard Publishing
+Deeper Discussion: This is a highly practical and specific case study on business model innovation driven by digital twins within a large commercial vehicle manufacturer.
+Product-to-Service Transition: It chronicles Ashok Leyland's shift from a product-led to a services-led, data-driven organization using digital technologies. This is incredibly relevant to our consideration of "do we sell as a service, do we offer an Adobe-like annual model?" and the broader SaaS model transition.
+Real-World Application & Value: Students can analyze how a major company implemented digital twins to mitigate business turbulence (like COVID-19) and address market needs, providing concrete examples of the "why" and "what will it achieve" from a customer's perspective.
+Impact on Share of Wallet: The case prompts discussion on how connected vehicles and digital twins can lead to a higher share of wallet from customers, directly touching upon our monetization questions regarding pricing and value capture.
+Direct Link (Publisher Page - Purchase Required): https://www.isb.edu/faculty-and-research/research-directory/leveraging-digital-twin-for-business-model-innovation-at-ashok-leyland-a
+(Note: This case study is typically available for purchase through Harvard Business Publishing Education or The Case Centre.)
+More Specifically Similar Resources:
+Here are additional resources that align closely with the themes of our preferred selections, focusing on the commercialization of novel, unproven, deep-tech software:
+
+"Launching a Startup Program" (Stanford Graduate School of Business Executive Education)
+
+Relevance: While a program overview, it outlines the "Startup Canvas" framework and modules for entrepreneurs, including identifying customers, developing prototypes, articulating value propositions, crafting GTM strategies, and assessing profit models. This directly covers many of our strategic business questions for market entry and commercialization. It also mentions the Stanford High Impact Technology (HIT) Fund, specifically designed to bridge the gap between academic labs and commercial markets.
+Link: https://em-execed.stanford.edu/launching-a-startup
+"Business Model Innovation: A Comprehensive Review" by Alexander Osterwalder (Strategic Management Journal - often cited in business model literature)
+
+Relevance: While a foundational academic paper, it introduces and elaborates on the Business Model Canvas, a tool widely used in MBA programs. Understanding this framework is crucial for designing and communicating our contingent fee/SaaS model and adapting it to different customer segments. 
+Search Recommendation: Search for "Alexander Osterwalder Business Model Innovation review PDF" or "Business Model Canvas Osterwalder Strategic Management Journal."
+"Pricing Strategies for New Products and Technologies" (from various business school course syllabi/reading lists, e.g., Wharton, Kellogg)
+
+Relevance: Look for articles or textbook chapters specifically on "new product pricing" or "technology pricing." These often address challenges like pricing without established benchmarks, value-based pricing for innovative solutions, and how to price before proving ROI, which is central to our "unproven digital twin" question.
+Search Recommendation: "Pricing new technology business models case study," "Value-based pricing B2B software startup," "Customer risk mitigation pricing strategy."
+"Go-to-Market Strategy for AI/ML Startups" (articles from Bain, BCG, Deloitte, or academic papers)
+
+Relevance: Given our AI-powered digital twin, resources specifically addressing GTM for AI/ML startups will be invaluable. They discuss nuances like demonstrating AI's value, building trust, and specific sales motions required for advanced analytics solutions.
+Search Recommendation: "Go-to-market strategy artificial intelligence B2B," "Commercializing machine learning startup."
+These resources, combined with our own project documents, should form a very strong foundation for the commercialization section of our MBA toolkit.
+
+These selections are indeed highly relevant and offer rich insights for our MBA toolkit. They cover the full spectrum from academic origin to market expansion for IT products, especially deep tech.
+
+Here's a deeper discussion of each, including their specific relevance to our project's nuances, and the most direct links available. As a reminder, many of these are behind paywalls or require institutional access, but the provided links will take you to their respective publisher pages where you can find purchase or access options.
+
+---
+Input from Expert #2
+---
+
+### Highly Relevant Case Studies and Articles for our MBA Toolkit:
+
+**1. "New product development process and case studies for deep-tech academic research to commercialization"**
+* **Source:** EconStor / ResearchGate (Journal of Technology Transfer)
+* **Deep Dive:** This is a goldmine because it's precisely about the journey our product is undertaking: **commercializing deep-tech research from academia**.
+    * **Direct Relevance:**
+        * **Academic-to-Commercial Transition:** The paper highlights the inherent differences between academic research (focus on publication, prototype) and commercial product development. This is critical for MBA students to understand the unique challenges and mindset shift required when an academic initiative like ours becomes a startup.
+        * **Augmented Stage-Gate Framework:** It proposes a modified product development process (integrating Agile Stage-Gate with Lean Startup and Design Thinking) suitable for deep tech in low-resource academic settings. This is a practical framework students can apply to our product's journey.
+        * **Funding & Market Need:** It explicitly discusses the significant initial funding needed for deep-tech prototypes and the difficulty in assessing market needs for novel innovations. This ties directly into our "how much starting money" and "how to decide customer segments" questions.
+    * **Link:** [https://www.econstor.eu/bitstream/10419/290253/1/1884180388.pdf](https://www.econstor.eu/bitstream/10419/290253/1/1884180388.pdf) (Direct PDF download)
+
+**2. "Experienced entrepreneurial founders, organizational capital, and venture capital funding"** by D. Hsu
+* **Source:** Wharton Faculty Research (from *Research Policy* journal)
+* **Deep Dive:** This academic paper provides empirical insights into the crucial human and organizational elements of early-stage startups seeking venture capital.
+    * **Direct Relevance:**
+        * **Founder Equity & Valuation:** Directly addresses "How do we decide shareholding patterns between founders?" by examining how founder experience, academic training, and social capital influence venture valuation and the likelihood of VC funding. Students will learn the factors that drive investor perception of value in early-stage tech ventures.
+        * **Organizational Capital:** Discusses how factors beyond just the technology (like the founding team's ability to self-recruit executives) contribute to a startup's organizational capital and attractiveness to investors. This supports our question about planning for "sweat equity" and team building.
+        * **Signaling Entrepreneurial Quality:** Highlights how prior successful startup experience (even if not directly ours, it applies to attracting experienced talent) can signal quality to VCs.
+    * **Link:** [https://faculty.wharton.upenn.edu/wp-content/uploads/2015/07/7.pdf](https://faculty.wharton.upenn.edu/wp-content/uploads/2015/07/7.pdf) (Direct PDF download)
+
+**3. "Digital twins: The next frontier of factory optimization"** and **"Using digital twins to unlock supply chain growth"** (McKinsey & Company)
+* **Source:** McKinsey & Company Insights
+* **Deep Dive:** These are strategic articles from a top consulting firm, offering a high-level view of digital twin adoption and value, perfect for understanding the market landscape you're entering.
+    * **Direct Relevance:**
+        * **Market Validation & Potential:** Provides recent industry data on digital twin market growth, adoption rates, and executive perceptions. This validates the "why" of our product and helps students understand the overall market opportunity and "which customer segments to target."
+        * **Quantifiable Benefits:** Details specific improvements digital twins deliver (e.g., 20% fulfillment improvement, 10% labor cost reduction). This is vital for students learning how to articulate value propositions and demonstrate ROI, especially when our twin is "unproven." It helps answer "what will it achieve."
+        * **Industry-Specific Applications:** Shows how digital twins are applied in manufacturing and supply chain, providing concrete examples that can inform our initial market entry decisions and illustrate the breadth of our "generic product" capabilities.
+    * **Link (Factory Optimization):** [https://www.mckinsey.com/capabilities/operations/our-insights/digital-twins-the-next-frontier-of-factory-optimization](https://www.mckinsey.com/capabilities/operations/our-insights/digital-twins-the-next-frontier-of-factory-optimization)
+    * **Link (Supply Chain Growth):** [https://www.mckinsey.com.br/capabilities/quantumblack/our-insights/digital-twins-the-key-to-unlocking-end-to-end-supply-chain-growth](https://www.mckinsey.com.br/capabilities/quantumblack/our-insights/digital-twins-the-key-to-unlocking-end-to-end-supply-chain-growth)
+
+**4. "Leveraging Digital Twin for Business Model Innovation at Ashok Leyland (A)"** by Chandan Chowdhury
+* **Source:** Indian School of Business (ISB), distributed by Harvard Business Publishing
+* **Deep Dive:** This case offers a very specific, real-world example of how a major industrial player adopted digital twins for business transformation.
+    * **Direct Relevance:**
+        * **Product-to-Service Transformation:** It showcases a tangible example of a company moving from selling products to offering services led by data and digital twins. This is incredibly pertinent to our question: "Do we ‘sell’ our product as a one off, do we sell as a service, do we offer an Adobe-like annual model, etc.?"
+        * **Business Model Innovation:** Students can analyze how digital twins enabled new business models and "higher share of wallet from the customer." This directly supports our commercialization and monetization objectives.
+        * **Addressing Turbulence:** The case shows how digital twins helped navigate business challenges during the COVID-19 pandemic, illustrating resilience and strategic value for customers.
+    * **Link (Publisher Page - Purchase Required):** [https://www.isb.edu/faculty-and-research/research-directory/leveraging-digital-twin-for-business-model-innovation-at-ashok-leyland-a](https://www.isb.edu/faculty-and-research/research-directory/leveraging-digital-twin-for-business-model-innovation-at-ashok-leyland-a)
+        * *(Note: This case study will require purchase through Harvard Business Publishing Education or The Case Centre, as it is a premium HBS-distributed case.)*
+
+---
+
+### More Specifically Similar Resources (with relevance to IT product market expansion/new domains):
+
+Since you want more similar resources, focusing on IT products entering new markets/industrial domains or research-based product launches:
+
+**5. "How to Structure a B2B Marketplace Venture"** (MIT Sloan Management Review)
+* **Deep Dive:** While about marketplaces, the principles of structuring a B2B venture, especially one that streamlines transactions, are highly applicable to any B2B software entering new markets.
+    * **Direct Relevance:**
+        * **Ownership Structures:** Discusses keeping ventures in-house vs. spinning them out, which is relevant to our transition from an academic initiative.
+        * **Channel Conflict & Market Reach:** Addresses potential channel conflict and extending market reach, crucial considerations when expanding our digital twin to new segments or countries.
+        * **Startup vs. Internal Unit:** Provides insights into the challenges and success factors of pure startups versus internal corporate units, informing our organizational maturity decisions.
+    * **Link:** [https://sloanreview.mit.edu/article/how-to-structure-a-b2b-marketplace-venture/](https://sloanreview.mit.edu/article/how-to-structure-a-b2b-marketplace-venture/)
+
+**6. "Why You Should Tap Innovation at Deep-Tech Startups"** (MIT Sloan Management Review)
+* **Deep Dive:** This article is written from the corporate perspective of *partnering* with deep-tech startups, but its insights are invaluable for a startup understanding its value proposition to potential partners.
+    * **Direct Relevance:**
+        * **Challenges of Deep Tech Commercialization:** Identifies key challenges like complex technology risks, high capital investment, and long timelines. Understanding these challenges from the customer's perspective helps you craft our value proposition and address their hesitations (e.g., "What will happen if our twin fails in a scenario?").
+        * **De-risking Roadmaps:** Mentions the need for clear roadmaps for de-risking across different technology readiness levels, which you can use in our presentations to CXOs.
+        * **Industry Barriers:** Highlights that sectors like financial services or retail may not be accustomed to emerging technologies, informing our targeted market entry and educational approach.
+    * **Link:** [https://sloanreview.mit.edu/article/why-you-should-tap-innovation-at-deep-tech-startups/](https://sloanreview.mit.edu/article/why-you-should-tap-innovation-at-deep-tech-startups/)
+
+**7. "Surviving the Commercialization Gap: Identities, Forms, and the Emergence of New Industries"** (INSEAD)
+* **Deep Dive:** This academic paper (available via INSEAD's research portal) explores why new firms in new activity domains often fail – the "commercialization gap."
+    * **Direct Relevance:**
+        * **Pioneer Challenges:** Illuminates the high failure rates among pioneers in new industries and the complexities of building consensus in nascent markets. This provides a theoretical lens for understanding the risks and strategic patience needed for our product, especially when expanding to new domains.
+        * **New Industry Emergence:** Discusses the dynamics of transforming an innovative idea into a viable commercial product and engaging potential adopters.
+    * **Link:** [https://sites.insead.edu/facultyresearch/research/doc.cfm?did=68231](https://sites.insead.edu/facultyresearch/research/doc.cfm?did=68231) (Direct PDF download)
+
+**8. "Scaling Business for Profitable Growth"** (Wharton Executive Education)
+* **Deep Dive:** This program overview (with implied case study content) addresses the holistic challenges of scaling a business, which includes market expansion.
+    * **Direct Relevance:**
+        * **Strategic & Financial Scaling:** Covers how to stress-test organizational structure for growth, identify KPIs for scaling, and understand capital requirements. This directly supports our questions on "When can we break-even?" and expanding to new countries/domains.
+        * **Local to Global Scaling:** Explicitly mentions "Local to Global: Scaling in Foreign Markets" as a session topic, which is highly relevant to our future expansion plans.
+    * **Link:** [https://executiveeducation.wharton.upenn.edu/for-individuals/all-programs/scaling-business-for-profitable-growth/](https://executiveeducation.wharton.upenn.edu/for-individuals/all-programs/scaling-business-for-profitable-growth/)
+
+These additional resources reinforce and expand upon the core themes identified in our top 4. They should provide a robust and multifaceted learning experience for MBA students grappling with the complexities of commercializing advanced technology in dynamic markets.
